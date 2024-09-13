@@ -1,7 +1,8 @@
 My name is Leonardo Zavala-Jimenez
-- I’m interested in Web Development, Software Engineering, Violin, Data Science
+- I am interested in Web Development, Software Engineering, Violin, Data Science
 - I am the National Outreach Coordinator for ColorStack at UC Davis
-- I am experienced with Python, C++, and R
+- I am also a tutor for the CS Tutoring Club at UC Davis
+- Experienced with Python, C++, and R
 - Discord: _lumiho
   
 Fun fact: started coding in 2023
