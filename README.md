@@ -6,7 +6,7 @@ Hi, my name is Leonardo Zavala-Jimenez
 - Currently, I am working on a website and startup project.
 - Discord: _lumiho
   
-Fun fact: started coding in 2023 and switched out of Neurology,Physiology and Behavior Major.
+Fun fact: I really love Davis' locally-made honey
 
 <!---
 Lumiho/Lumiho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
