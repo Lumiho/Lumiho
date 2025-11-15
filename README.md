@@ -1,22 +1,24 @@
-# 👋 Hi, I'm Leonardo Zavala-Jimenez
+👋 Hi, I'm Leonardo Zavala-Jimenez
 
-I'm a Computer Science student at UC Davis with a strong interest in **Data Science**, **Software Engineering**, and **Project Management** — and a passion for playing the violin (albeit not that well).
+I'm a Computer Science student at UC Davis minoring in Statistics, passionate about AI, data-driven systems, and full-stack development. I love building intelligent systems that connect hardware, data, and software — from EMG-powered fitness apps to custom microservices.
 
-- 🎓 **National Outreach Coordinator** and **Project Lead** at [ColorStack](https://www.colorstack.org/), where I help empower underrepresented students in tech through mentorship and outreach.
-- 💻 I have vast tutoring experience — from being a club tutor at UC Davis to tutoring high school students!
-- 🛠️ Currently building a **website and startup project** that combine my interests in tech, data, and community impact.
-- 🧠 Experienced with **Python**, **C++**, **R**, **SQL**, and **GitHub**.
+🎓 National Outreach Coordinator & Project Lead at ColorStack, where I mentor students and lead initiatives that support underrepresented communities in tech.
 
-📫 Let's connect:  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 [LinkedIn](https://www.linkedin.com/in/leonardo-zavala-jimenez-651801210/)  
-&nbsp;&nbsp;&nbsp;&nbsp;💬 Discord: **_lumiho**
+💻 Experienced in software engineering, machine learning, and data analysis, with hands-on projects in React Native, Node.js, Python, Rust, and C.
 
----
+📱 Currently building MuscleMax, an EMG-based fitness platform using React Native + Expo, BLE hardware, SQLite, and a custom Node/Express + ResilientDB backend.
 
-### 🌟 Fun Fact
-I’m a huge fan of **Davis’ locally-made honey** — it’s the sweetest part of my day 🍯
+🌐 Developing Top Garden, a full-stack landscaping web app using React, Tailwind, and Node.js.
 
-<!---
-Lumiho/Lumiho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧠 Strong foundation in algorithms, regression modeling, and AI — paired with practical experience debugging Bluetooth systems, writing microservices, and fine-tuning TTS models.
+
+🛠️ Skilled with Python, Java, C/C++, R, TypeScript, SQL, GitHub, Tailwind, and embedded development tools.
+
+📫 Let's connect:
+    🔗 LinkedIn: https://www.linkedin.com/in/leonardo-zavala-jimenez-651801210/
+
+    💬 Discord: _lumiho
+
+🌟 Fun Fact
+
+Davis’ locally-made honey powers half my debugging sessions
