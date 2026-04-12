@@ -1,24 +1,46 @@
-👋 Hi, I'm Leonardo Zavala-Jimenez
+# Hey, I'm Leo 👋
 
-I'm a Computer Science student at UC Davis minoring in Statistics, passionate about AI, data-driven systems, and full-stack development. I love building intelligent systems that connect hardware, data, and software — from EMG-powered fitness apps to custom microservices.
+**Computer Science @ UC Davis '26** | Building intelligent systems at the intersection of software, hardware, and AI
 
-🎓 National Outreach Coordinator & Project Lead at ColorStack, where I mentor students and lead initiatives that support underrepresented communities in tech.
+[![Portfolio](https://img.shields.io/badge/Portfolio-personal--web--lzj.vercel.app-00A67E?style=flat-square)](https://personal-web-lzj.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leonardo-zavala-jimenez-651801210/)
+[![Email](https://img.shields.io/badge/Email-zavalaleo715%40yahoo.com-EA4335?style=flat-square)](mailto:zavalaleo715@yahoo.com)
 
-💻 Experienced in software engineering, machine learning, and data analysis, with hands-on projects in React Native, Node.js, Python, Rust, and C.
+---
 
-📱 Currently building MuscleMax, an EMG-based fitness platform using React Native + Expo, BLE hardware, SQLite, and a custom Node/Express + ResilientDB backend.
+### What I'm Working On
 
-🌐 Developing Top Garden, a full-stack landscaping web app using React, Tailwind, and Node.js.
+🏥 **Software Engineer @ UC Davis Internal Medicine** — Architecting a full-stack funding workflow platform in Next.js + TypeScript, projected to eliminate 250+ hours of manual processing annually
 
-🧠 Strong foundation in algorithms, regression modeling, and AI — paired with practical experience debugging Bluetooth systems, writing microservices, and fine-tuning TTS models.
+💪 **Software Lead @ MuscleMaxx** — Building a cross-platform fitness app with React Native, integrating custom EMG + IMU wearables via BLE for real-time muscle activity tracking
 
-🛠️ Skilled with Python, Java, C/C++, R, TypeScript, SQL, GitHub, Tailwind, and embedded development tools.
+🎓 **National Outreach Lead @ ColorStack** — Supporting underrepresented students in tech; grew membership 30% through strategic event planning
 
-📫 Let's connect:
-    🔗 LinkedIn: https://www.linkedin.com/in/leonardo-zavala-jimenez-651801210/
+---
 
-    💬 Discord: _lumiho
+### Tech Stack
 
-🌟 Fun Fact
+```
+Languages:      Python | TypeScript | JavaScript | Rust | C/C++ | Java | Swift | R
+Frontend:       React | React Native | Next.js | Tailwind CSS
+Backend:        Node.js | Express | Prisma ORM | MongoDB | SQLite | Redis
+Hardware:       ESP32 | ESP-IDF | BLE | EMG/IMU Sensors
+```
 
-Davis’ locally-made honey powers half my debugging sessions
+---
+
+### Recent Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **UC Davis Funding Platform** | Full-stack workflow system with tokenized email approvals | Next.js, Prisma, MongoDB, Zod, Resend |
+| **MuscleMaxx** | EMG-powered fitness app with real-time biometric streaming | React Native, BLE, ESP32, SQLite, Node.js |
+| **GitHub Data Fetcher** | CLI tool for GitHub API with Redis caching (80% fewer API calls) | Rust, Redis, REST API |
+
+---
+
+### Let's Connect
+
+I'm passionate about neurotechnology, machine learning, and building software that makes a real impact. Always open to collaborating on interesting projects.
+
+📫 **zavalaleo715@yahoo.com** · 🌐 **[personal-web-lzj.vercel.app](https://personal-web-lzj.vercel.app)**
