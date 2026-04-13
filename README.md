@@ -14,7 +14,7 @@
 
 💪 **Software Lead @ MuscleMaxx** — Building a cross-platform fitness app with React Native, integrating custom EMG + IMU wearables via BLE for real-time muscle activity tracking
 
-🎓 **National Outreach Lead @ ColorStack** — Supporting underrepresented students in tech; grew membership 30% through strategic event planning
+🎓 **Project Manager@ ColorStack** — Supporting underrepresented students in tech; grew membership 30% through strategic event planning and lead the development of the club's website to be deployed by June 2026.
 
 ---
 
