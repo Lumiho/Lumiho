@@ -29,13 +29,13 @@ Hardware:       ESP32 | ESP-IDF | BLE | EMG/IMU Sensors
 
 ---
 
-### Recent Projects
+### Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **UC Davis Funding Platform** | Full-stack workflow system with tokenized email approvals | Next.js, Prisma, MongoDB, Zod, Resend |
-| **MuscleMaxx** | EMG-powered fitness app with real-time biometric streaming | React Native, BLE, ESP32, SQLite, Node.js |
-| **GitHub Data Fetcher** | CLI tool for GitHub API with Redis caching (80% fewer API calls) | Rust, Redis, REST API |
+  | Project | Tech | Access |
+  |---------|------|--------|
+  | **UC Davis Funding Platform** | Next.js, Prisma, MongoDB, Resend | Private (employer IP) — available on request |
+  | **MuscleMaxx** | React Native, BLE, ESP32, Node.js | Private (in development) — available on request |
+  | **GitHub Data Fetcher** | Rust, Redis, REST API | [View Repo](https://github.com/Lumiho/github-data-fetcher) |
 
 ---
 
