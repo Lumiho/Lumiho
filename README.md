@@ -31,11 +31,12 @@ Hardware:       ESP32 | ESP-IDF | BLE | EMG/IMU Sensors
 
 ### Featured Projects
 
-  | Project | Tech | Access |
-  |---------|------|--------|
-  | **UC Davis Funding Platform** | Next.js, Prisma, MongoDB, Resend | Private (employer IP) — available on request |
-  | **MuscleMaxx** | React Native, BLE, ESP32, Node.js | Private (in development) — available on request |
-  | **GitHub Data Fetcher** | Rust, Redis, REST API | [View Repo](https://github.com/Lumiho/github-data-fetcher) |
+| Project | Tech | Access |
+|---------|------|--------|
+| **[Retina Risk — VisionWatch](https://github.com/bdunguyen/MedXEng2026)** | Python, React, Three.js, ML, Databricks | [View Repo](https://github.com/bdunguyen/MedXEng2026) |
+| **UC Davis Funding Platform** | Next.js, Prisma, MongoDB, Resend | Private (employer IP) — available on request |
+| **MuscleMaxx** | React Native, BLE, ESP32, Node.js | Private (in development) — available on request |
+| **GitHub Data Fetcher** | Rust, Redis, REST API | [View Repo](https://github.com/Lumiho/github-data-fetcher) |
 
 ---
 
