@@ -22,6 +22,26 @@
 
 🎓 **National Outreach Lead / Project Manager @ ColorStack, UC Davis** (Dec 2023 – Jun 2026) — Represented UC Davis in national meetings, planned events that grew membership 30%, and oversaw the chapter's website and GitHub repo development.
 
+#### Other things I've built along the way
+
+🖐️ **[Gester](https://github.com/Lumiho/gester)** (HackDavis 2026) — An arm-strapped motion device that turns tilts in ten directions into text for people who can't use a keyboard. Claude suggests word completions so typing takes fewer gestures. BLE tilt client + Vite/React web app + a small Node server. [Live demo](https://gester-pearl.vercel.app)
+
+📦 **[Inventory Counter](https://github.com/Lumiho/inventory_app)** — Expo/React Native app I built for counting the same set of tools over and over at CCE @ UC Davis. Tap-to-count, saved history that auto-populates the next round, and one-tap Excel export through the native share sheet. Shipped via EAS Build.
+
+📡 **[Pi BLE Simulator](https://github.com/Lumiho/pi_ble_simulator)** — Python script that makes a Raspberry Pi pretend to be an EMG device over Bluetooth, so I could test the MuscleMaxx app's data streaming before the real hardware was ready.
+
+📊 **[Data Analysis Blog](https://github.com/Lumiho/Data_Analysis_Blog)** — Next.js + MDX blog where I write up Python analyses: sleep & health, social media habits, and stroke prediction. [Read it](https://data-analysis-blog.vercel.app)
+
+🐍 **[mylib](https://github.com/Lumiho/mylib)** — A pip-installable package of the pandas helpers I kept rewriting: missing-value reports, outlier detection, numeric/categorical column splits, and chi-square summary tables.
+
+🧠 **[Image Classifier CNN](https://github.com/Lumiho/Image_Classifier_CNN)** — Convolutional neural net on Fashion-MNIST with training/validation curves and a look at where it gets things wrong.
+
+🌐 **[Portfolio Site](https://github.com/Lumiho/personal_web)** — Next.js 14 + Tailwind, the source behind [lzj-web.vercel.app](https://lzj-web.vercel.app).
+
+🌿 **[Top Garden Landscaping](https://github.com/Lumiho/top_garden_web)** — Multi-page React + Tailwind site for a landscaping & design business, with forms wired to the Google Sheets API. Built with a friend. [Live site](https://top-garden-web-lv8q.vercel.app/)
+
+🪑 **[Z Rentals](https://github.com/Lumiho/rentals_zav)** — Lightweight HTML/Tailwind site for a chair, table, and restroom rental service. [Live site](https://zrentals.vercel.app)
+
 ---
 
 ### Tech Stack
