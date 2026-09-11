@@ -24,7 +24,7 @@
 
 #### Other things I've built along the way
 
-🖐️ **[Gester](https://github.com/Lumiho/gester)** (HackDavis 2026) — An arm-strapped motion device that turns tilts in ten directions into text for people who can't use a keyboard. Claude suggests word completions so typing takes fewer gestures. BLE tilt client + Vite/React web app + a small Node server. [Live demo](https://gester-pearl.vercel.app)
+🖐️ **[Gester](https://github.com/Lumiho/gester)** (HackDavis 2026) — An arm-strapped motion device that turns tilts in ten directions into text for people who can't use a keyboard. Claude suggests word completions so typing takes fewer gestures. BLE tilt client + Vite/React web app + a small Node server. Live demo available upon request.
 
 📦 **[Inventory Counter](https://github.com/Lumiho/inventory_app)** — Expo/React Native app I built for counting the same set of tools over and over at CCE @ UC Davis. Tap-to-count, saved history that auto-populates the next round, and one-tap Excel export through the native share sheet. Shipped via EAS Build.
 
